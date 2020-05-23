@@ -59,3 +59,5 @@ function generateDate (d){
 
     return `${day} ${date} ${month} ${year}`;
 }
+
+getResults('Delhi');
